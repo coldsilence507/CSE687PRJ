@@ -1,0 +1,169 @@
+
+  <DbCore>
+    <DbRecord>
+      <key>
+        CSE687
+      </key>
+      <DbElement>
+        <name>
+          Object Oriented Design
+        </name>
+        <description>
+          2018Sp, Instructor: Jim Fawcett
+        </description>
+        <datetime>
+          Mon Jan 15 00:00:00 2018
+        </datetime>
+        <payload>
+          
+  <file>
+    <path>
+      /cse687ood2018sp/
+    </path>
+    <categories>
+      <category>
+        Midterm
+      </category>
+      <category>
+        Helpsession
+      </category>
+      <category>
+        Project
+      </category>
+      <category>
+        Exam
+      </category>
+    </categories>
+  </file>
+        </payload>
+        <children>
+          <childkey>
+            CIS554
+          </childkey>
+          <childkey>
+            CSE681
+          </childkey>
+        </children>
+      </DbElement>
+    </DbRecord>
+    <DbRecord>
+      <key>
+        CIS554
+      </key>
+      <DbElement>
+        <name>
+          Object Oriented Programming
+        </name>
+        <description>
+          2017Fa, Instructor: Roger Chen
+        </description>
+        <datetime>
+          Fri Sep  1 00:00:00 2017
+        </datetime>
+        <payload>
+          
+  <file>
+    <path>
+      /cis554oop2017fa/
+    </path>
+    <categories>
+      <category>
+        Homework
+      </category>
+      <category>
+        Midterm
+      </category>
+      <category>
+        Exam
+      </category>
+    </categories>
+  </file>
+        </payload>
+        <children>
+        </children>
+      </DbElement>
+    </DbRecord>
+    <DbRecord>
+      <key>
+        CSE661
+      </key>
+      <DbElement>
+        <name>
+          Advanced Computer Architecture
+        </name>
+        <description>
+          2018Sp, Instructor: Ehat Ercanli
+        </description>
+        <datetime>
+          Mon Jan 15 00:00:00 2018
+        </datetime>
+        <payload>
+          
+  <file>
+    <path>
+      /cse661aca2018sp/
+    </path>
+    <categories>
+      <category>
+        Termpaper
+      </category>
+      <category>
+        Homework
+      </category>
+      <category>
+        Quiz
+      </category>
+      <category>
+        Midterm
+      </category>
+      <category>
+        Exam
+      </category>
+    </categories>
+  </file>
+        </payload>
+        <children>
+        </children>
+      </DbElement>
+    </DbRecord>
+    <DbRecord>
+      <key>
+        CSE681
+      </key>
+      <DbElement>
+        <name>
+          Software Model Analysis
+        </name>
+        <description>
+          2017Fa, Instructor: Jim Fawcett
+        </description>
+        <datetime>
+          Fri Sep  1 00:00:00 2017
+        </datetime>
+        <payload>
+          
+  <file>
+    <path>
+      /cse681aca2017fa/
+    </path>
+    <categories>
+      <category>
+        Assignment
+      </category>
+      <category>
+        Midterm
+      </category>
+      <category>
+        Exam
+      </category>
+    </categories>
+  </file>
+        </payload>
+        <children>
+          <childkey>
+            CIS554
+          </childkey>
+        </children>
+      </DbElement>
+    </DbRecord>
+  </DbCore>

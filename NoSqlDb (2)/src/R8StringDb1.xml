@@ -1,0 +1,72 @@
+
+  <DbCore>
+    <DbRecord>
+      <key>
+        Fawcett
+      </key>
+      <DbElement>
+        <name>
+          Jim
+        </name>
+        <description>
+          Instructor for CSE687
+        </description>
+        <datetime>
+          Mon Jan 15 00:00:00 2018
+        </datetime>
+        <payload>
+          The good news is ...
+        </payload>
+        <children>
+          <childkey>
+            Salman
+          </childkey>
+          <childkey>
+            Sun
+          </childkey>
+        </children>
+      </DbElement>
+    </DbRecord>
+    <DbRecord>
+      <key>
+        Sun
+      </key>
+      <DbElement>
+        <name>
+          Jianan
+        </name>
+        <description>
+          TA for CSE687
+        </description>
+        <datetime>
+          Tue Feb  6 20:22:22 2018
+        </datetime>
+        <payload>
+          Dr. Fawcett said ...
+        </payload>
+        <children>
+        </children>
+      </DbElement>
+    </DbRecord>
+    <DbRecord>
+      <key>
+        Salman
+      </key>
+      <DbElement>
+        <name>
+          Ammar
+        </name>
+        <description>
+          TA for CSE687
+        </description>
+        <datetime>
+          Tue Feb  6 20:22:22 2018
+        </datetime>
+        <payload>
+          You should try ...
+        </payload>
+        <children>
+        </children>
+      </DbElement>
+    </DbRecord>
+  </DbCore>
